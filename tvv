@@ -1,69 +1,67 @@
 #EXTM3U
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",TF1
-http://rv.flysat.live:80/307242112467/307242112467/79132?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",FRANCE 2
-http://rv.flysat.live:80/307242112467/307242112467/79131?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",FRANCE 3 HD
-http://rv.flysat.live:80/307242112467/307242112467/78490?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",CANAL+ HD
-http://rv.flysat.live:80/307242112467/307242112467/78449?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",FRANCE 5 HD
-http://rv.flysat.live:80/307242112467/307242112467/78488?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",M6 HD
-http://rv.flysat.live:80/307242112467/307242112467/78484?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",ARTE
-http://rv.flysat.live:80/307242112467/307242112467/79117?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",C8 HEVC
-http://ip365.cx:80/591479399642519/845556651954303/552?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",W9 HD
-http://rv.flysat.live:80/307242112467/307242112467/78478?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",TMC HD
-http://rv.flysat.live:80/307242112467/307242112467/78479?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",TFX
-http://rv.flysat.live:80/307242112467/307242112467/79122?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",NRJ 12 HD
-http://rv.flysat.live:80/307242112467/307242112467/78420?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",LCP HD
-http://rv.flysat.live:80/307242112467/307242112467/78320?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",FRANCE 4 HD
-http://rv.flysat.live:80/307242112467/307242112467/78489?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",BFM TV HD
-http://rv.flysat.live:80/307242112467/307242112467/78326?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",CNEWS HD
-http://rv.flysat.live:80/307242112467/307242112467/78327?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",CSTAR HD
-http://rv.flysat.live:80/307242112467/307242112467/78469?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",GULLI HD
-http://rv.flysat.live:80/307242112467/307242112467/78331?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",TF1 SERIES FILMS HD
-http://rv.flysat.live:80/307242112467/307242112467/78483?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",EQUIPE 21
-http://rv.flysat.live:80/307242112467/307242112467/79099?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",6TER HD
-http://rv.flysat.live:80/307242112467/307242112467/78485?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",RMC STORY HD
-http://rv.flysat.live:80/307242112467/307242112467/78419?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",RMC DECOUVERTE HD
-http://rv.flysat.live:80/307242112467/307242112467/78333?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",BFM BUSINESS HD
-http://rv.flysat.live:80/307242112467/307242112467/78319?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",CHERIE 25 HD
-http://rv.flysat.live:80/307242112467/307242112467/78418?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",LCI HD
-http://rv.flysat.live:80/307242112467/307242112467/78324?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",FRANCE INFO HD
-http://rv.flysat.live:80/307242112467/307242112467/78323?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",NRJ HITS HD
-http://rv.flysat.live:80/307242112467/307242112467/78308?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC SPORT 1
-http://rv.flysat.live:80/307242112467/307242112467/79038?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC SPORT 2 HD
-http://rv.flysat.live:80/307242112467/307242112467/78379?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",RMC SPORT 3
-http://rv.flysat.live:80/307242112467/307242112467/79036?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT 1
-http://rv.flysat.live:80/307242112467/307242112467/79044?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT 2
-http://rv.flysat.live:80/307242112467/307242112467/79043?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEIN SPORT 3
-http://rv.flysat.live:80/307242112467/307242112467/79042?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="TF1.fr" group-title="News",TF1 (576p)
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/tech_tf1_ott_mobile-155120/hls/index.m3u8
+#EXTINF:0 tvg-id="TF1.fr" group-title="News",TF1
+https://mmsiptv.com/live/tf1/playlist.m3u8
+#EXTINF:0 tvg-id="TF1.fr" group-title="News",TF1 (720p)
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+#EXTINF:0 tvg-id="France2.fr" group-title="General",France 2
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
+#EXTINF:0 tvg-id="France2.fr" group-title="General",France 2
+https://mmsiptv.com/live/france2/playlist.m3u8
+#EXTINF:0 tvg-id="France3.fr" group-title="News",France 3
+https://mmsiptv.com/live/france3/playlist.m3u8
+#EXTINF:0 tvg-id="France4.fr" group-title="News",France 4
+https://mmsiptv.com/live/france4/playlist.m3u8
+#EXTINF:0 tvg-id="France5.fr" group-title="News",France 5
+https://mmsiptv.com/live/france5/playlist.m3u8
+#EXTINF:0 tvg-id="M6.fr" group-title="Family",M6 (576p)
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8
+#EXTINF:0 tvg-id="M6.fr" group-title="Family",M6
+https://mmsiptv.com/live/m6/playlist.m3u8
+#EXTINF:0 tvg-id="M6.fr" group-title="Family",M6 (1080p)
+https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
+#EXTINF:0 tvg-id="Arte.fr" group-title="Local",ARTE Français
+http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8?set-segment-duration=quality
+#EXTINF:0 tvg-id="C8.fr" group-title="Kids",C8
+https://mmsiptv.com/live/c8/playlist.m3u8
+#EXTINF:0 tvg-id="W9.fr" group-title="Local",W9
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/05.m3u8
+#EXTINF:0 tvg-id="W9.fr" group-title="Local",W9 (576p)
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/index.m3u8
+#EXTINF:0 tvg-id="W9.fr" group-title="Local",W9
+https://mmsiptv.com/live/w9/playlist.m3u8
+#EXTINF:0 tvg-id="TCM.uk" group-title="Kids",TMC (720p)
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+#EXTINF:0 tvg-id="TFX.fr" group-title="News",TFX
+https://mmsiptv.com/live/tfx/playlist.m3u8
+#EXTINF:0 tvg-id="TFX.fr" group-title="News",TFX (720p)
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="Music",NRJ12
+https://mmsiptv.com/live/nrj12/playlist.m3u8
+#EXTINF:0 tvg-id="BFMTV.fr" group-title="Business",BFMTV (720p)
+https://bfmtvalive1-a.akamaihd.net/2cc377e69b5f492e91de57728c82f907/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
+#EXTINF:0 tvg-id="BFMTV.fr" group-title="Business",BFMTV (720p)
+https://bfmtvalive1-a.akamaihd.net/2cc377e69b5f492e91de57728c82f907/eu-central-1/876450610001/profile_1/b0486ae3ca4147b0953f02e67e80ac8d/chunklist_ssaiV.m3u8
+#EXTINF:0 tvg-id="Gulli.fr" group-title="Kids",Gulli (540p)
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+#EXTINF:0 tvg-id="Gulli.fr" group-title="Kids",Gulli
+https://mmsiptv.com/live/gulli/playlist.m3u8
+#EXTINF:0 tvg-id="TF1SeriesFilms.fr" group-title="News",TF1 Séries Films (720p)
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:0 tvg-id="Equipe21.fr" group-title="Religious",L'Équipe (576p)
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8
+#EXTINF:0 tvg-id="Equipe21.fr" group-title="Religious",L'Équipe
+https://mmsiptv.com/live/equipe/playlist.m3u8
+#EXTINF:0 tvg-id="6ter.fr" group-title="Music",6ter (576p)
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
+#EXTINF:0 tvg-id="BFMBusiness.fr" group-title="Business",BFM Business (480p)
+https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/index_1100_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="BFMBusiness.fr" group-title="Business",BFM Business (480p)
+https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/master.m3u8
+#EXTINF:0 tvg-id="LCI.fr" group-title="Family",LCI (720p)
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live.m3u8
+#EXTINF:0 tvg-id="LCI.fr" group-title="Family",LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:0 tvg-id="NRJHits.fr" group-title="Music",NRJ Hits
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/index.m3u8
